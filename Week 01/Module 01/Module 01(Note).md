@@ -2,7 +2,7 @@
 
 ### (Module 01)
 
-*Introduction Basic Syntex:
+1.Introduction Basic Syntex:
 ```
 #include <bits/stdc++.h>
 
@@ -15,7 +15,7 @@ int main()
 }
 ```
 
-*Basic IO:
+2.Basic IO:
 
 ```
 1.Operator:
@@ -35,12 +35,12 @@ int main()
   - #include <bits/stdc++.h>
 ```
 
-*Namespace:
+3.Namespace:
 
 ```
 A namespace is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it. Namespaces are used to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.
 ```
-*if-else:
+4.if-else:
 
 ```
 if(condition)
@@ -52,7 +52,7 @@ else
     statement;
 }
 ```
-*Loop:
+5.Loop:
 
 ```
 3 tpyes of loop:
@@ -60,4 +60,4 @@ else
  - while
  - do while
 ```
-*Break-Continue.
+6.Break-Continue.
