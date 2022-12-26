@@ -13,9 +13,15 @@ int main()
         cin>>a;
         v.push_back(a);
     }
-    for(auto &p : v)
-    cout<<p<<" ";
+    for(int i=0;i<v.size();i++)
+    {
+        cout<<v[i]<<" ";
+    }
 
     return 0;
 }
 
+/*
+ for(auto &p : v)
+    cout<<p<<" "; 
+ for print vector value*/

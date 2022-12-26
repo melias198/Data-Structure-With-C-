@@ -55,7 +55,7 @@ else
 5.Loop:
 
 ```
-3 tpyes of loop:
+3 tpyes of loop: 
  - for
  - while
  - do while
