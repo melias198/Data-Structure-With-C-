@@ -1,7 +1,7 @@
 ## Week 01
 
 ### (Module 01)
-```
+
 *Introduction Basic Syntex:
 ```
 #include <bits/stdc++.h>
@@ -14,7 +14,9 @@ int main()
     return 0;
 }
 ```
+
 *Basic IO:
+
 ```
 1.Operator:
   - Extraction Operator (>>) Using take input.
@@ -32,11 +34,14 @@ int main()
 4.Header File:
   - #include <bits/stdc++.h>
 ```
+
 *Namespace:
+
 ```
 A namespace is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it. Namespaces are used to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.
 ```
 *if-else:
+
 ```
 if(condition)
 {
@@ -48,6 +53,7 @@ else
 }
 ```
 *Loop:
+
 ```
 3 tpyes of loop:
  - for
@@ -55,4 +61,3 @@ else
  - do while
 ```
 *Break-Continue.
-```
