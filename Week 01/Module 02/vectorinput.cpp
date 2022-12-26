@@ -6,7 +6,7 @@ int main()
 {
     int n;
     cin>>n;
-    int a;
+    int a; 
     vector<int>v;
     for(int i=0;i<n;i++)
     {

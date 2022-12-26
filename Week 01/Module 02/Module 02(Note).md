@@ -164,7 +164,7 @@
         vector<data_type> variable_name; 
     - Access 
         a[ith]
-    - Size of Vector 
+    - Size of Vector  
         variable_name.size()
     - Element Delating and Insertion
         a.insertion(a.begin()+1, 100);

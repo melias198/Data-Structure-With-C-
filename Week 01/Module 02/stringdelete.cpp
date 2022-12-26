@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{
+{ 
     string s;
     cin>>s;
     s.erase(s.begin()+0);//for delete first character
