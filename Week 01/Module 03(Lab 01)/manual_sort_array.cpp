@@ -29,7 +29,7 @@ public:
 
 bool comp(student a,student b)
 {
-    //when a is less then b
+    //when a is less then b,we compare anything,we want.
     return a.roll<b.roll;
 }
 

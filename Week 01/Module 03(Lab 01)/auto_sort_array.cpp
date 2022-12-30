@@ -26,7 +26,7 @@ public:
         cout<<name<<" "<<roll<<" "<<age<<" "<<"\n";
       }
 
-      bool operator < (student s)
+      bool operator < (student s) //operator overloading
       {
         return age<s.age;
       }
