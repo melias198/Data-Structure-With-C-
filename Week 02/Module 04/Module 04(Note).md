@@ -23,9 +23,11 @@ Asymptotic Notations are programming languages that allow you to analyze an algo
 3. Big Theta ( Θ ) notation--Upper and Lower bound
 We normally using Big-Oh(O)
 **Polynomial time complexility**
-O(1),O(n),O(n^2),O(n^3),O(n^k),O(logn),O(nlogn),O(n squreroot n).
+O(1),O(n),O(n^2),O(n^3),O(n^k),O(log(n)),O(nlog(n)),O(n squreroot n).
 **Exponential time complexility**
 O(2^n),O(c^n).
+**Time Complexity-->>
+O(1)<O(log(n))<O(Square(n))<O(n)<O(n^2)<O(n^3)<O(n^n).
 **Time complexity with operation**
 1. Assignment Operation(=) ---> O(1)
 2. Comparison Operation(<,>,==) ---> O(1)
