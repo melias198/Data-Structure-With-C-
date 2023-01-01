@@ -4,7 +4,7 @@
 ``` 
 -Introduction
 -Basic IO
--Data Types
+-Data Types 
 -Namespace
 -if-else 
 -loop
