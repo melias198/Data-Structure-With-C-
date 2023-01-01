@@ -2,7 +2,14 @@
 
 using namespace std;
 
+/*
+Time complexity: O(2^n)
+Space complexity: O(n)
+*/
+
 int called = 0;
+
+//fibonacci
 
 int fib(int n)
 {
