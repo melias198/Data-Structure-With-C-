@@ -2,6 +2,11 @@
 
 using namespace std;
 
+/*
+Time complexity-->O(nlogn+q.logn)-->if q=n,O(2nlogn)-->O(nlogn)
+if the programme written by leniar search it complexity could be-->O(q.n)-->if q=n,O(n^2)
+*/
+
 int main()
 {
     int n;
@@ -11,7 +16,7 @@ int main()
     {
         cin>>v[i];
     }
-    sort(v.begin(),v.end());
+    sort(v.begin(),v.end());//O(nlogn)
     int q;
     cin>>q;
     for(int j=0;j<q;j++)

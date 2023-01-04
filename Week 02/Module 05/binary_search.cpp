@@ -2,6 +2,10 @@
 
 using namespace std;
 
+/*
+Time complexity-->O(logn)
+*/
+
 int main()
 {
     int n;
