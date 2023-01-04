@@ -9,7 +9,7 @@ Write the time complexity of each of the code segments shown below.
 
 int k=1;
 while(k<=n){
-	cout<<k<<endl;
+	cout<<k<<endl; 
 	k=k*2;
 }
 

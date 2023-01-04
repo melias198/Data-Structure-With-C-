@@ -18,7 +18,7 @@ int main()
         {
             if(v[j+1]>v[j])
             {
-                int temp = v[j+1];
+                int temp = v[j+1]; 
                 v[j+1]=v[j];
                 v[j]=temp;
             }

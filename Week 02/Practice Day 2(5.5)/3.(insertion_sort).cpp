@@ -13,7 +13,7 @@ int main()
     }
     //insertion sort
     int i,j,temp;
-    for(i=1;i<n;i++)
+    for(i=1;i<n;i++) 
     {
         temp=v[i];
         j=i-1;
