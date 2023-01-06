@@ -91,7 +91,7 @@ k=(2base)logn
 inner and outer is = O(n*logn)=O(nlogn)
 */
 /* 
-Time complexity:-->O(n)
+Time complexity:-->O(n(log(logn)))
 
 for(int i=n/2;i<=n;i++){
 	for(int j=1;j<=n;j=j+i){
@@ -99,11 +99,16 @@ for(int i=n/2;i<=n;i++){
 	}
 }
 Analysis:
-nested outer loop is = O(n/2)= O(n)
+nested outer loop is O(n)
 inner loop is:
-for every i,the inner loop run for a maximum of n/i=2 iterations..
-inner and outer=O(n*2)=O(n)
-for best case : O(n^2) when n=2,inner loop is n/1=n=n*n=n^2
+i=1 --> j=n/1
+i=2 --> j=n/2 
+i=3 --> j=n/3
+i=4 --> j=n/4
+i=5 --> j=n/5
+n/1 + n/2 + n/3 + n/4 + n/5 + .. + n/n
+n(1 + 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + ..+ 1/n) Hermonic Series(1 + 1/2 + 1/3 + 1/4=log(logn))
+n(log(logn))
 */
 /*
 Time complexity:-->O(n^2)
