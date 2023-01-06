@@ -13,3 +13,9 @@
 -Insertion Dynamic Array
 -Deletion Dynamic Array
 ```
+### Lab 2(Module 06)
+```
+-Bubble Sort
+-Insertion Sort
+-Seive Complexity
+```
