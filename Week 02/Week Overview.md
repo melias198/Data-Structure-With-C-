@@ -17,7 +17,7 @@
 ```
 -Bubble Sort
 -Insertion Sort
--Seive Complexity
+-Seive Complexity 
 ```
 ### (Module 7)
 ```
