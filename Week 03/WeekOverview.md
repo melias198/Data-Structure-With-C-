@@ -10,4 +10,7 @@
 
 ### (Module 09)
 ```
+-Quick Sort Implementation
+-Quick Sort Complexity
+-Intruduction to Linked List
 ```
