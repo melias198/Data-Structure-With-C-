@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Time complexity: O(nlogn)
+
 int main()
 {
     int n;
@@ -24,4 +26,17 @@ int main()
     cout<<val<<" ";
     return 0;
 }
+
+/*
+outer loop is O(n)
+inner loop is:
+i=2 --> j=n/2
+i=3 --> j=n/3
+i=4 --> j=0,n/4
+i=5 --> j=n/5
+i=6 --> j=0,n/6
+n/2 + n/3 + n/4 + n/5 + n/6 + ..... + n/n
+n(1/2 + 1/3 + 1/4 + 1/5 + 1/6 + ....+ 1/n) Hermonic Series(1 + 1/2 + 1/3 + 1/4=logn)
+n(logn)
+*/
 
