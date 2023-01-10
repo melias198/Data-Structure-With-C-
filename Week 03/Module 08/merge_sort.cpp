@@ -35,7 +35,7 @@ vector<int> merge_sort(vector<int>a)
         {
             sorted_a.push_back(sorted_b[idx1]);
             idx1++;
-        }
+        } 
         else if(sorted_b[idx1]<sorted_c[idx2])
         {
             sorted_a.push_back(sorted_b[idx1]);
