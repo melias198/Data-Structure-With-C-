@@ -21,7 +21,7 @@ int main()
     {
         if(cnt[i]>0)
         { 
-            while(cnt[i]!=0)
+            while(cnt[i]!=0) 
             {
                 cout<<i<<" ";
                 cnt[i]--;
