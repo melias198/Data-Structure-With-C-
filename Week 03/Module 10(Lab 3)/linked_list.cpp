@@ -6,7 +6,7 @@ class node
 {
 public:
     int data;
-    node *nxt;
+    node *nxt; 
 };
 
 class LinkedList
