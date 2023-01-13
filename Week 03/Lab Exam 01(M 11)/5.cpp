@@ -72,7 +72,7 @@ public:
 
     void printReverse(node * a)
     {
-        if(a==0) return;
+        if(a==NULL) return;
         printReverse(a->next);
         cout<<a->data<<" ";
     }
