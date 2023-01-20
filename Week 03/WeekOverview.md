@@ -27,3 +27,7 @@
 
 ### Practice Day 2(Module 10.5)
 [Practice 10.5](https://docs.google.com/document/d/1fhdsyMQ-rSABiciSR_k--e-BZ2mt0ex5FZIPVwZwGB0/edit).
+
+
+### Lab Exam 01(Module 11)
+[Theory Exam 01](https://docs.google.com/document/d/1fxnTOvnXpqwPOOoRV617w1sNlTv8vSMbM4vNY71fsG4/edit).
