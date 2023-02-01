@@ -24,7 +24,7 @@
 ```
 
 ### Practice Day 2(Module 18.5)
-[Practice 18.5](https://docs.google.com/document/d/1Xl0xHE-yB2TbVPNaFTJR2L6osdK-fc6CxjyOFItk2ew/edit).
+[Practice 18.5](https://docs.google.com/document/d/1Xl0xHE-yB2TbVPNaFTJR2L6osdK-fc6CxjyOFItk2ew/edit). 
 
 
 ### Lab Mid Term Exam(Module 19)
