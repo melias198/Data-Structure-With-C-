@@ -162,3 +162,118 @@
 
 ### Lab Mid Term Exam(Module 19)
 [Lab Mid Term Exam](https://docs.google.com/document/d/1GSGCSDb2ImO2qPyGZTpexsBrsvAblDQUt4aT9sL1tMA/edit).
+
+
+## Week 06
+
+### Module 20
+```
+-Stack Theory
+-Stack Using Array Theory
+-Stack Implement Using Static Array
+-Stack Implement Using Dynamic Array
+-Stack Using LinkedList Theory
+-Stack Implement Using Doubly Linked List
+```
+
+### Module 21
+```
+-Template in C++
+-Reverse Stack
+-Sort Stack
+```
+
+### Practice Day 1(Module 21.5)
+[Practice 21.5](https://docs.google.com/document/d/1-v5rJ0ZCOiy56DRAi-zjyycoyiPpaLaEb3ZlYkAGpuo/edit).
+
+
+### Module 22(Lab 6)
+```
+-Built In List
+-Built In Stack
+-Regular Bracket Sequence Check
+-Infix to Postfix
+```
+
+### Practice Day 2(Module 22.5)
+[Practice 22.5](https://docs.google.com/document/d/1CI5PpnXD-JSXFFY6U32TQQ-ot7CrSF5nAspEHTigWmw/edit).
+
+
+### Theory Assignment 02(Module 23)
+[Theory 02 Question](https://docs.google.com/document/d/1knAGuSpZzzViJctsaJATuRgmO7B0xFV1nZsEsA3IkMc/edit).
+
+## Week 06
+
+### Module 20
+```
+-Stack Theory
+-Stack Using Array Theory
+-Stack Implement Using Static Array
+-Stack Implement Using Dynamic Array
+-Stack Using LinkedList Theory
+-Stack Implement Using Doubly Linked List
+```
+
+### Module 21
+```
+-Template in C++
+-Reverse Stack
+-Sort Stack
+```
+
+### Practice Day 1(Module 21.5)
+[Practice 21.5](https://docs.google.com/document/d/1-v5rJ0ZCOiy56DRAi-zjyycoyiPpaLaEb3ZlYkAGpuo/edit).
+
+
+### Module 22(Lab 6)
+```
+-Built In List
+-Built In Stack
+-Regular Bracket Sequence Check
+-Infix to Postfix
+```
+
+### Practice Day 2(Module 22.5)
+[Practice 22.5](https://docs.google.com/document/d/1CI5PpnXD-JSXFFY6U32TQQ-ot7CrSF5nAspEHTigWmw/edit).
+
+
+### Theory Assignment 02(Module 23)
+[Theory 02 Question](https://docs.google.com/document/d/1knAGuSpZzzViJctsaJATuRgmO7B0xFV1nZsEsA3IkMc/edit).
+
+
+## Week 07
+
+### Modiule 24
+```
+-Queue Theory
+-Queue Implement Using Static Array.
+-Queue Implement Using Circular Static Array.
+-Queue Implement Using Circular Dynamic Array.
+```
+
+### Module 25
+```
+-Queue Implement Using Linked Lst.
+-STL Queue.
+-Binary Representation Using Queue.
+```
+
+### Practice Day 1(M 25.5)
+[Practice Day 1](https://docs.google.com/document/d/1ZZ8bCKDghIZrH4JMO1YZ_BxNH8NsRNIdwXZ73lZeVhE/edit).
+
+
+### Module 26(Lab 7)
+```
+-Deque Theory.
+-Deque Implement Using Linked List.
+-Reverse Deque.
+-STL Deque.
+```
+
+### Practice Day 2(M 26.5)
+[Practice Day 2](https://docs.google.com/document/d/1c72E4fhr0wFQ6ZKgwtdgz8m7fq6QBWDUIczlkYPkRyQ/edit).
+
+
+### Lab Exam 02(Module 27)
+[Lab Exam 02 Question](https://docs.google.com/document/d/1h8l_Fbh6HedtAgxsxQg0-epSyqOnkeLaAb1PctEGTVQ/edit).
+
