@@ -277,3 +277,86 @@
 ### Lab Exam 02(Module 27)
 [Lab Exam 02 Question](https://docs.google.com/document/d/1h8l_Fbh6HedtAgxsxQg0-epSyqOnkeLaAb1PctEGTVQ/edit).
 
+
+## Week 08
+
+
+### Module 28
+```
+-Non Linear Data Structure.
+-Graph,Tree,Binary Tree Theory.
+-Binary Tree Variations.
+-Binary Tree Implementations.
+```
+
+### Module 29
+```
+-Binary Traversal BFS,DFS
+-DFS
+    ->Inorder
+    ->Preorder
+    ->Postorder
+-Insert
+-Search  
+```
+
+### Practice Day 1(Module 29.5)
+[Practice Day 1](https://docs.google.com/document/d/10zz6Amp1GV3LSkeKb7E2ECwpDx7MvnZNPphX_f2QSG0/edit).
+
+
+### Module 30(Lab 08)
+```
+-Binary Search Tree Theory.
+-Binary Search Tree Implementation.
+-Binary Search Tree Searching.
+-Binary Search Tree Deletion.
+```
+
+### Practice Day 2(Module 30.5)
+[Practice Day 2](https://docs.google.com/document/d/1MlJxVKyETLit22sZQEy6JSaEszwSyYPn-QwjM8J5fzo/edit).
+
+
+### Theory Final Exam(Module 31)
+[Theory Final Exam Question](https://docs.google.com/document/d/1S-3hAVWion5947C2fy_H3jGBx6fX9my7rXFtqYGQHds/edit).
+
+
+
+## Week 09
+
+### Module 32
+```
+-Heap Theory
+-Heap Implement Using Array
+-Heap Insert
+-Heap Delete
+-Heap Max
+```
+
+### Module 33
+```
+-Build Heap From Array
+-Build Heap Time Complexity
+-Heap Sort
+-Priority Queue
+-STL Priority Queue
+-Priority Queue Example
+```
+
+### Module 33.5(Practice Day 1)
+[Practice Day 1](https://docs.google.com/document/d/13qGtIvFUEyCvYsR79VDppCO0SryDRsXelm63cm68h3U/edit).
+
+
+### Module 34(Lab 09)
+```
+-STL set
+-STL multiset
+-STL pair
+-STL map
+```
+
+### Module 34.5(Practice Day 2)
+[Practice Day 2](https://docs.google.com/document/d/1SNiVupiW7zSG-WgY224xW_L8R6xCILj5J7dOaqlwQtA/edit).
+
+
+### Module 35(Lab Final Exam)
+[Lab Final Exam Question](https://docs.google.com/document/d/18-zBAU-8Dr_xQHqyT94lAEiVu4aaNIBZ_CMFhhgt_Qo/edit).
